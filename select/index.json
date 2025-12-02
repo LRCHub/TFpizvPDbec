@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メロメロイド",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-02T13:13:34.611120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メロメロイド (feat. 初音ミク)",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/01_メロメロイド_(feat._初音ミク)_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロメロイド",
+      "artist": "Kairikibear, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_メロメロイド_Kairikibear,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロメロイド (feat. 初音ミク)",
+      "artist": "Kairikibear, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_メロメロイド_(feat._初音ミク)_Kairikibear,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メロメロイド",
+      "artist": "Kairiki Bear feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/04_メロメロイド_Kairiki_Bear_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メロメロイド",
+      "artist": "Hatsune Miku; Kairikibear",
+      "has_synced": true,
+      "path": "select/05_メロメロイド_Hatsune_Miku;_Kairikibear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロメロイド",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_メロメロイド_かいりきベア.txt"
+    }
+  ]
+}
